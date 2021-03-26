@@ -1,0 +1,3 @@
+﻿  power.cpp
+C:\Users\User\Desktop\HW\Programming\c++\power\power\power.cpp(11,11): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  power.vcxproj -> C:\Users\User\Desktop\HW\Programming\c++\power\Debug\power.exe
